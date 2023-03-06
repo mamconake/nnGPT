@@ -1,6 +1,6 @@
 # nngpt
 
-This is a flutter Chat App  with OpenAI GPT3 and Speech to Text conversio
+This is a flutter Chat App  with OpenAI GPT3 and Speech to Text conversion
 
 ## Getting Started
 
